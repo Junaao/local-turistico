@@ -1,0 +1,81 @@
+:root {
+    font-family: "Open Sans", sans-serif;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #29292E;
+ 
+}
+#page {
+    box-sizing: border-box;
+    width: 1280px;
+    padding: 80px;
+    margin: 88px auto;
+    background-color: white;
+}
+#cabeçalho {
+    color: #E1624F;
+    font-weight: bold;
+
+  
+
+  }
+
+h1  {
+    font-size:36px;
+    font-weight: bold ;
+    letter-spacing:  0px;
+    margin-top: -12px;
+    margin-bottom: 42px;
+}
+
+#descriçao1 {
+    font-size: 15px;
+    color: #333333;
+    text-align: center;
+    font-style: italic;
+
+}
+section + section {
+    margin-top: 64px;
+}
+
+#cabeçalho2 {
+    color: #E1624F;
+    font-weight: bold;
+    margin-bottom: -30px;
+}
+#p1,#p2 {
+    font-weight: bold;
+
+}
+#Locais h2 {
+    font-size: 36px;
+    margin-bottom: -12px;
+}
+
+h3 {
+    font-size: 28px;
+}
+#Locais li {
+    color: blue;
+    font-weight: bold;
+}
+
+#Locais #li1 {
+    color: #591B98;
+    font-weight: bold;
+}
+#Locais #li2 {
+    color: #E5245E;
+    font-weight: bold;
+}
+#Locais #li3 {
+    color: #E95E10;
+    font-weight: bold;
+}
+#Locais li {
+    color: blue;
+    font-weight: bold;
+}
